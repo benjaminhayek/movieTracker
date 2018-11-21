@@ -22,11 +22,8 @@ Run tests with `npm test`.
 
 ## Final Result
 
-![alt tag](https://github.com/benjaminhayek/movieTracker/blob/master/public/images/screen1.png "Screen-shot of App")
+![alt tag](https://github.com/benjaminhayek/movieTracker/blob/master/public/images/Screen1.png "Screen-shot of App")
 
-![alt tag](https://github.com/benjaminhayek/movieTracker/blob/master/public/images/screen2.png "Screen-shot of App")
+![alt tag](https://github.com/benjaminhayek/movieTracker/blob/master/public/images/Screen2.png "Screen-shot of App")
 
-![alt tag](https://github.com/benjaminhayek/movieTracker/blob/master/public/images/screen3.png "Screen-shot of App")
-
-
-![alt tag](https://github.com/benjaminhayek/movieTracker/blob/master/public/images/wire.png "Screen-shot of App")
+![alt tag](https://github.com/benjaminhayek/movieTracker/blob/master/public/images/Screen3.png "Screen-shot of App")
