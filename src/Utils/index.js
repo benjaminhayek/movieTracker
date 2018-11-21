@@ -37,6 +37,7 @@ export const getMovies = async () => {
   const cleanedResults = results.filter(movie => 
     (movie.video.length && movie.image && movie.mpaa)
   )
+  console.log(cleanedResults)
   return cleanedResults;
 }
 
