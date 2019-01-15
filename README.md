@@ -1,5 +1,7 @@
-#Movie Tracker
-This project allows users to sign in and save their favorite movies under their profile. It was made using The Movie DB API and Create-React-App.
+
+# Movie Tracker
+This project allows users to sign in and save their favorite movies under their profile. It was made using The Movie DB API and Create-React-App. One of my favorite features of this project shows a 1.5 minute preview of a movie when you hover over the picture with your mouse. This app was designed based on Netflix's web design.
+
 
 ## Project Goals
 * Pull in movies from Movie DB API.
@@ -22,11 +24,10 @@ Run tests with `npm test`.
 
 ## Final Result
 
-![alt tag](https://github.com/Haub/movieTracker/blob/master/public/images/screen1.png "Screen-shot of App")
 
-![alt tag](https://github.com/Haub/movieTracker/blob/master/public/images/screen2.png "Screen-shot of App")
+![alt tag](https://github.com/benjaminhayek/movieTracker/blob/master/public/images/Screen1.png "Screen-shot of App")
 
-![alt tag](https://github.com/Haub/movieTracker/blob/master/public/images/screen3.png "Screen-shot of App")
+![alt tag](https://github.com/benjaminhayek/movieTracker/blob/master/public/images/Screen2.png "Screen-shot of App")
 
+![alt tag](https://github.com/benjaminhayek/movieTracker/blob/master/public/images/Screen3.png "Screen-shot of App")
 
-![alt tag](https://github.com/Haub/movieTracker/blob/master/public/images/wire.png "Screen-shot of App")
