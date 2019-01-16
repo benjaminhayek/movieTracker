@@ -31,7 +31,7 @@ const TitleContainer = ({ movies, name, search }) => {
       <div className={`title-container ${searchActive ? 'pad' : ''}`}>
         <div className='container-name'>
           <div className='favorites-page'>
-            <h3 className='title fade'>{name}</h3>
+            <h3 className='title fade blue'>{name}</h3>
             <Link to='/favorites'>
               <h3 className='title'>(see all)</h3>
             </Link>
