@@ -4,6 +4,7 @@ const environment = process.env.NODE_ENV || 'development'
 const config = require('./knexfile')[environment]
 const database = require('knex')(config)
 const app = express()
+const path = require('path');
 const cors = require('cors');
 
 app.use(cors());
@@ -100,9 +101,7 @@ app.locals.title = 'users';
   })
 
 
-    app.use(function (request, response, next) {
-        response.status(404).sendFile(__dirname + '/public/404.html')
-      })
+    app.use(express.static(path.join(__dirname, 'build')));
       
     app.listen(app.get('port'), () => {
         console.log(`${app.locals.title} is running on ${app.get('port')}.`);
