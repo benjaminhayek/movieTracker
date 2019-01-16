@@ -1,4 +1,4 @@
-import { getMovies, getUser, addUser, checkFavorites } from "../utils";
+import { getMovies, getUser, addUser, checkFavorites } from "../Utils";
 
 export const fetchMovies = () => {
   return async dispatch => {
